@@ -64,6 +64,9 @@ Of course we made plenty of graphs and chart for you to look at. below is a quic
 
 After Analyzing are models we found that there are just to many variables to have a definite answer to what key metrics determine a good hitter. But it was very insightfull for what to lookout for!
 
+# Presentation
+[![Google Slides](https://docs.google.com/presentation/d/1BNH8CO_rQZaWQNqcxG1-oTHkbTcTVgiaTj8rUcKy8hM/edit?slide=id.g3606e6205be_2_6#slide=id.g3606e6205be_2_6)
+
 # Sources
 
 - [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3713/) - Programming Language
