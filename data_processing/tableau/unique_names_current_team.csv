@@ -1,0 +1,789 @@
+"last_name, first_name",team
+"Heineman, Tyler",Toronto
+"Hoerner, Nico",Chicago
+"Alvarez, Yordan",Houston
+"Altuve, Jose",Houston
+"Thomas, Alek",Arizona
+"Garcia, Maikel",Kansas City
+"Peralta, David",Free
+"Correa, Carlos",Minnesota
+"Reyes, Pablo",Boston
+"Jones, Jahmai",Milwaukee
+"Luciano, Marco",San Francisco
+"Clement, Ernie",Toronto
+"Frelick, Sal",Milwaukee
+"Pinto, René",Tampa Bay
+"Muncy, Max",Los Angeles
+"Aranda, Jonathan",Tampa Bay
+"Norby, Connor",Miami
+"Barnes, Austin",Los Angeles
+"Fortes, Nick",Miami
+"Barnhart, Tucker",Free
+"Carpenter, Matt",San Diego
+"Toglia, Michael",Colorado
+"Dubón, Mauricio",Houston
+"Stott, Bryson",Philadelphia
+"Nevin, Tyler",Free
+"Fletcher, Dominic",Charlotte
+"Baddoo, Akil",Toledo
+"Torres, Gleyber",Detroit
+"Martínez, J.P.",Saraperos
+"Yepez, Juan",Rochester
+"Vilade, Ryan",St.Louis
+"Pratto, Nick",Omaha
+"Ramírez, Harold",Tampa Bay
+"Baldwin, Brooks",Chicago
+"Freeman, Freddie",Los Angeles
+"Santander, Anthony",Baltimore
+"Miranda, Jose",Minnesota
+"Frazier, Clint",Texas
+"Elko, Tim",Chicago
+"Stanton, Giancarlo",New York
+"Hicks, Aaron",Free
+"Busch, Michael",Los Angeles
+"Ward, Taylor",Los Angeles
+"McKenna, Ryan",Baltimore
+"Rosario, Eddie",Free
+"Gurriel Jr., Yuli",Free
+"Sanoja, Javier",Miami
+"Caratini, Victor",Milwaukee
+"Carlson, Dylan",St.Louis
+"Rojas, Josh",Seattle
+"Henderson, Gunnar",Baltimore
+"Capra, Vinny",Toronto
+"Trout, Mike",Los Angeles
+"Ornelas, Jonathan",Texas
+"Raley, Luke",Tampa Bay
+"Miller, Brad",Texas
+"Jeffers, Ryan",Minnesota
+"Wisely, Brett",San Francisco
+"Crews, Dylan",Washington
+"Villar, David",Free
+"Maldonado, Martín",San Diego
+"Thompson, Trayce",Boston
+"Azocar, José",Free
+"Torrens, Luis",New York
+"Bauers, Jake",Milwaukee
+"Thaiss, Matt",Tampa Bay
+"Locklear, Tyler",Tacoma
+"Dingler, Dillon",Detroit
+"Perkins, Blake",Milwaukee
+"Chapman, Matt",Toronto
+"Moniak, Mickey",Los Angeles
+"Duran, Jarren",Boston
+"Rogers, Jake",Detroit
+"Mead, Curtis",Tampa Bay
+"Peña, Jeremy",Houston
+"Frazier, Adam",Kansas City
+"Tellez, Rowdy",Milwaukee
+"Florial, Estevan",New York
+"Paris, Kyren",Los Angeles
+"Hassell III, Robert",Washington
+"Duffy, Matt",Kansas City
+"Haniger, Mitch",San Francisco
+"Walls, Taylor",Tampa Bay
+"Turang, Brice",Milwaukee
+"Langeliers, Shea",Oakland
+"Horwitz, Spencer",Toronto
+"Suwinski, Jack",Pittsburgh
+"Stevenson, Andrew",Minnesota
+"McKinney, Billy",New York
+"Profar, Jurickson",San Diego
+"McCoy, Mason",Toronto
+"Hill, Derek",Washington
+"Sanó, Miguel",Free
+"Garver, Mitch",Texas
+"Castro, Rodolfo",Pittsburgh
+"DeJong, Paul",Chicago
+"Monasterio, Andruw",Milwaukee
+"DeLoach, Zach",Seattle
+"Call, Alex",Washington
+"Wallner, Matt",Minnesota
+"Solak, Nick",Atlanta
+"Shewmake, Braden",Atlanta
+"Tromp, Chadwick",San Francisco
+"Machado, Manny",San Diego
+"White, Eli",Atlanta
+"Wendzel, Davis",Louisville
+"Canzone, Dominic",Tacoma
+"Hurtubise, Jacob",Louisville
+"Davis, J.D.",Los Angeles
+"Vázquez, Christian",Minnesota
+"Lee, Brooks",Minnesota
+"Guillorme, Luis",Sugar
+"Walton, Donovan",Free
+"Matos, Luis",San Francisco
+"Lewis, Royce",Minnesota
+"Bell, Josh",Miami
+"Bellinger, Cody",New York
+"Brennan, Will",Cleveland
+"Mayo, Coby",Baltimore
+"Turner, Justin",Free
+"Carroll, Corbin",Arizona
+"Smith, Dominic",Tampa Bay
+"Paredes, Isaac",Tampa Bay
+"Belt, Brandon",Free
+"Hopkins, TJ",Louisville
+"Maton, Nick",Toledo
+"Canario, Alexander",Iowa
+"Ohtani, Shohei",Los Angeles
+"Helman, Michael",St. Paul
+"Locastro, Tim",Syracuse
+"Hampson, Garrett",Kansas City
+"Lockridge, Brandon",Scranton/Wilkes-Barre
+"Franco, Wander",Tampa Bay
+"Larnach, Trevor",Minnesota
+"Riley, Austin",Atlanta
+"Soler, Jorge",San Francisco
+"Andrus, Elvis",Free
+"Pauley, Graham",San Diego
+"Mountcastle, Ryan",Baltimore
+"Giménez, Andrés",Cleveland
+"Mateo, Jorge",Baltimore
+"Winn, Masyn",St.Louis
+"Díaz, Yandy",Tampa Bay
+"Acuña Jr., Ronald",Atlanta
+"Vargas, Miguel",Kansas City
+"Gray, Tristan",Durham
+"Bader, Harrison",New York
+"Tapia, Raimel",Free
+"Stallings, Jacob",Colorado
+"Swanson, Dansby",Chicago
+"Vientos, Mark",New York
+"Kelly, Carson",Detroit
+"Williams, Luke",Gwinnett
+"García, Luis",Washington
+"Crow-Armstrong, Pete",Iowa
+"Andujar, Miguel",Oakland
+"Rivera, Emmanuel",Arizona
+"Castro, Willi",Minnesota
+"Stephenson, Tyler",Cincinnati
+"Turner, Trea",Philadelphia
+"Quero, Edgar",Birmingham
+"Pederson, Joc",San Francisco
+"Haggerty, Sam",Tacoma
+"Robles, Victor",Seattle
+"Schanuel, Nolan",Los Angeles
+"Pérez, Carlos",Chicago
+"Smith, Cam",Houston
+"Fraley, Jake",Cincinnati
+"Holliday, Jackson",Baltimore
+"Rafaela, Ceddanne",Boston
+"Moreno, Gabriel",Arizona
+"Bride, Jonah",Oakland
+"Gonzales, Nick",Pittsburgh
+"Estrada, Thairo",San Francisco
+"Schwarber, Kyle",Philadelphia
+"Perez, Salvador",Kansas City
+"Alvarez, Francisco",New York
+"Gallo, Joey",Minnesota
+"Jung, Josh",Texas
+"Lopez, Nicky",Atlanta
+"Moore, Dylan",Seattle
+"Adams, Riley",Washington
+"Ozuna, Marcell",Atlanta
+"Kepler, Max",Minnesota
+"Grissom, Vaughn",Boston
+"Arias, Gabriel",Cleveland
+"Lowe, Josh",Tampa Bay
+"Buxton, Byron",Minnesota
+"Pasquantino, Vinnie",Kansas City
+"Jansen, Danny",Toronto
+"Trevino, Jose",New York
+"Winker, Jesse",Washington
+"Gurriel Jr., Lourdes",Arizona
+"Verdugo, Alex",New York
+"Cameron, Daz",Baltimore
+"Escarra, J.C.",Miami
+"Ford, Mike",Seattle
+"Haase, Eric",Milwaukee
+"Rodríguez, Julio",Seattle
+"Crawford, J.P.",Seattle
+"Martin, Austin",Minnesota
+"Lukes, Nathan",Toronto
+"Merrill, Jackson",San Diego
+"McCormick, Chas",Houston
+"Arozarena, Randy",Tampa Bay
+"Báez, Javier",Detroit
+"Suzuki, Seiya",Chicago
+"Berti, Jon",Miami
+"Varsho, Daulton",Toronto
+"Cordero, Franchy",New York
+"Adell, Jo",Los Angeles
+"Santana, Carlos",Pittsburgh
+"Ruiz, Esteury",Oakland
+"Acuña, Luisangel",Texas
+"León, Pedro",Houston
+"Rutschman, Adley",Baltimore
+"Wade, Tyler",Oakland
+"Amaya, Miguel",Chicago
+"Morel, Christopher",Chicago
+"Joe, Connor",Pittsburgh
+"Vosler, Jason",Seattle
+"Miller, Owen",Milwaukee
+"Torkelson, Spencer",Detroit
+"Sogard, Nick",Boston
+"Baker, Luken",St.Louis
+"Ramírez, Agustín",New York
+"Drury, Brandon",Los Angeles
+"DeLuca, Jonny",Los Angeles
+"Heim, Jonah",Texas
+"Smith, Will",Los Angeles
+"Cabrera, Miguel",Retired
+"Gonzalez, Romy",Chicago
+"Amaya, Jacob",Miami
+"Renfroe, Hunter",Kansas City
+"Judge, Aaron",New York
+"Piña, Manny",Oakland
+"Bregman, Alex",Houston
+"Isbel, Kyle",Kansas City
+"Conforto, Michael",San Francisco
+"Wilson, Weston",Philadelphia
+"Lopez, Irving",St.Louis
+"Velázquez, Nelson",Kansas City
+"Dozier, Hunter",Free
+"Higashioka, Kyle",San Diego
+"Stewart, DJ",New York
+"Marsh, Brandon",Philadelphia
+"Schunk, Aaron",Colorado
+"Hernández, Yonny",Los Angeles
+"Rizzo, Anthony",New York
+"Tucker, Cole",Seattle
+"Bae, Ji Hwan",Pittsburgh
+"Yorke, Nick",Boston
+"Wynns, Austin",Los Angeles
+"Kwan, Steven",Cleveland
+"Meckler, Wade",San Francisco
+"Fairchild, Stuart",Cincinnati
+"Alvarez, Armando",San Francisco
+"Bogaerts, Xander",San Diego
+"Rojas, Johan",Philadelphia
+"Friedl Jr., TJ",Cincinnati
+"Sánchez, Jesús",Miami
+"Pagés, Pedro",St.Louis
+"Herrera, Iván",St.Louis
+"Arcia, Orlando",Atlanta
+"Biggio, Cavan",Toronto
+"Wagner, Will",Houston
+"Pérez, Wenceel",Detroit
+"Castellanos, Nick",Philadelphia
+"Caminero, Junior",Tampa Bay
+"Herrera, Jose",Arizona
+"Arenado, Nolan",St.Louis
+"Realmuto, J.T.",Philadelphia
+"LeMahieu, DJ",New York
+"Donaldson, Josh",Retired
+"Myers, Dane",Miami
+"Nido, Tomás",New York
+"Palacios, Joshua",Pittsburgh
+"Motter, Taylor",Free
+"McCann, James",Baltimore
+"McGuire, Reese",Boston
+"Díaz, Elias",Colorado
+"Carpenter, Kerry",Detroit
+"Julks, Corey",Houston
+"Perdomo, Geraldo",Arizona
+"Canha, Mark",Detroit
+"Hernández, Teoscar",Los Angeles
+"Lipcius, Andre",Detroit
+"Dalbec, Bobby",Boston
+"Wood, James",Washington
+"Vaughn, Andrew",Chicago
+"Adams, Jordyn",Los Angeles
+"García, Avisaíl",Miami
+"Cabbage, Trey",Los Angeles
+"Story, Trevor",Boston
+"Margot, Manuel",Minnesota
+"De La Cruz, Bryan",Miami
+"Kreidler, Ryan",Detroit
+"Duran, Ezequiel",Texas
+"Marte, Ketel",Arizona
+"Choi, Ji Man",Free
+"Neto, Zach",Los Angeles
+"Goldschmidt, Paul",St.Louis
+"Sabol, Blake",San Francisco
+"Whitcomb, Shay",Houston
+"Refsnyder, Rob",Boston
+"Pham, Tommy",Chicago
+"Doyle, Brenton",Colorado
+"Collins, Isaac",Colorado
+"Raleigh, Cal",Seattle
+"Meyers, Jake",Houston
+"McMahon, Ryan",Colorado
+"Calhoun, Willie",New York
+"Westburg, Jordan",Baltimore
+"Gorman, Nolan",St.Louis
+"McCarthy, Jake",Arizona
+"Moncada, Yoán",Chicago
+"Devers, Rafael",Boston
+"Peterson, Jace",Free
+"Blankenhorn, Travis",Washington
+"Kessinger, Grae",Houston
+"Merrifield, Whit",Philadelphia
+"Allen, Nick",Oakland
+"Abreu, Wilyer",Boston
+"Massey, Michael",Kansas City
+"Triolo, Jared",Pittsburgh
+"Clemens, Kody",Minnesota
+"Keith, Colt",Detroit
+"Cruz, Oneil",Pittsburgh
+"Rodríguez, Endy",Pittsburgh
+"Taveras, Leody",Seattle
+"Tauchman, Mike",Chicago
+"Ramos, Heliot",San Francisco
+"Cowser, Colton",Baltimore
+"Urías, Luis",Milwaukee
+"Meidroth, Chase",(Team
+"Trejo, Alan",Colorado
+"Polanco, Jorge",(Team
+"Cruz Jr., Nelson",Free
+"Huff, Sam",Texas
+"Hicks, Liam",Texas
+"Rosario, Eguy",Texas
+"Straw, Myles",(Team
+"Adames, Willy",Milwaukee
+"Bryant, Kris",Colorado
+"La Stella, Tommy",Free
+"Capel, Conner",Oakland
+"Sweeney, Trey",New York
+"Kiner-Falefa, Isiah",New York
+"Jimenez, Leo",Toronto
+"Beck, Jordan",Colorado
+"Jiménez, Eloy",Chicago
+"Scott II, Victor",St.Louis
+"Rortvedt, Ben",New York
+"Albies, Ozzie",Atlanta
+"Diaz, Yainer",Houston
+"Lowe, Nathaniel",Texas
+"Tovar, Ezequiel",Colorado
+"De La Cruz, Elly",Cincinnati
+"Freeman, Tyler",(Team
+"McCray, Grant",San Francisco
+"Meadows, Parker",Detroit
+"Lamb, Jake",Free
+"Tucker, Kyle",Houston
+"Pages, Andy",Los Angeles
+"Murphy, Sean",Atlanta
+"Loftin, Nick",Kansas City
+"Soderstrom, Tyler",Oakland
+"Benintendi, Andrew",Chicago
+"Cave, Jake",Philadelphia
+"Williams, Alika",Pittsburgh
+"Camargo, Johan",San Francisco
+"Reynolds, Bryan",Pittsburgh
+"Narváez, Carlos",New York
+"Mendick, Danny",New York
+"Heyward, Jason",Los Angeles
+"Peraza, Oswald",New York
+"Iglesias, Jose",Free
+"McLain, Matt",Cincinnati
+"Rosario, Amed",Tampa Bay
+"Gorski, Matt",Pittsburgh
+"Hamilton, David",Boston
+"Volpe, Anthony",New York
+"Kjerstad, Heston",Baltimore
+"Lindor, Francisco",New York
+"Walker, Jordan",St.Louis
+"Saggese, Thomas",Texas
+"Schuemann, Max",Oakland
+"Caballero, José",Seattle
+"Kennedy, Buddy",Oakland
+"Butler, Lawrence",Oakland
+"Rengifo, Luis",(Team
+"Trammell, Taylor",Seattle
+"Palacios, Richie",St.Louis
+"Witt Jr., Bobby",Kansas City
+"Schneider, Davis",Toronto
+"Siri, Jose",Tampa Bay
+"Harper, Bryce",Philadelphia
+"Kirilloff, Alex",Minnesota
+"Rojas, Miguel",Los Angeles
+"Encarnacion-Strand, Christian",Cincinnati
+"Blackmon, Charlie",Colorado
+"García, Adolis",Texas
+"Wong, Connor",Boston
+"Voit III, Luke",Free
+"Osuna, Alejandro",Texas
+"Harris II, Michael",Atlanta
+"McCutchen, Andrew",Pittsburgh
+"Taylor, Samad",Kansas City
+"Crawford, Brandon",St.Louis
+"Wall, Forrest",Atlanta
+"Solano, Donovan",Minnesota
+"Almonte, Abraham",Free
+"Tatis Jr., Fernando",San Diego
+"Benson, Will",Louisville
+"Martini, Nick",Free
+"Davis, Henry",Indianapolis
+"Hernández, Enrique",Los Angeles
+"Carter, Evan",Texas
+"Brosseau, Mike",El
+"Del Castillo, Adrian",Reno
+"Olson, Matt",Atlanta
+"d'Arnaud, Travis",Atlanta
+"Montero, Elehuris",Colorado
+"Pereira, Everson",Scranton/Wilkes-Barre
+"Nootbaar, Lars",St.Louis
+"Martínez, Angel",Cleveland
+"Dunn, Blake",Cincinnati
+"Ramos, Bryan",Chicago
+"Arraez, Luis",Miami
+"Garrett, Stone",Washington
+"Waters, Drew",Kansas City
+"Maile, Luke",Cincinnati
+"Alfaro, Jorge",Free
+"Vargas, Ildemaro",Washington
+"Sosa, Lenyn",Chicago
+"Stefanic, Michael",Los Angeles
+"Olivares, Edward",Kansas City
+"Alvarez Jr., Nacho",Atlanta
+"Laureano, Ramón",Cleveland
+"Chaparro, Andrés",New York
+"León, Sandy",Free
+"Naylor, Bo",Cleveland
+"Cabrera, Oswaldo",New York
+"Hedges, Austin",Texas
+"Langford, Wyatt",Texas
+"Knizner, Andrew",St.Louis
+"Keirsey Jr., DaShawn",Minnesota
+"Betts, Mookie",Los Angeles
+"Jackson, Alex",Milwaukee
+"Castro, Harold",Colorado
+"Brantley Jr., Michael",Houston
+"Mitchell, Garrett",Milwaukee
+"Farmer, Kyle",Minnesota
+"Smith, Kevin",Oakland
+"Chang, Yu",Tampa Bay
+"Smith-Njigba, Canaan",Pittsburgh
+"Lawlar, Jordan",Arizona
+"Grisham, Trent",San Diego
+"Hinds, Rece",Cincinnati
+"Grichuk, Randal",Los Angeles
+"Ornelas, Tirso",San Diego
+"Ibáñez, Andy",Detroit
+"Lee, Korey",Chicago
+"Marte, Starling",New York
+"Flores, Wilmer",San Francisco
+"Rios, Edwin",Chicago
+"Wong, Kolten",Seattle
+"Rendon, Anthony",Los Angeles
+"Bailey, Patrick",San Francisco
+"Candelario, Jeimer",Washington
+"Seager, Corey",Texas
+"Bliss, Ryan",Arizona
+"Casali, Curt",Cincinnati
+"Abrams, CJ",Washington
+"Domínguez, Jasson",New York
+"O'Hearn, Ryan",Baltimore
+"Lester, Josh",Baltimore
+"Hayes, Ke'Bryan",Pittsburgh
+"Cronenworth, Jake",San Diego
+"Taylor, Chris",Los Angeles
+"Yastrzemski, Mike",San Francisco
+"Smith, Pavin",Arizona
+"Stowers, Kyle",Baltimore
+"Hensley, David",Houston
+"Madris, Bligh",Detroit
+"Contreras, Willson",St.Louis
+"Short, Zack",Detroit
+"Hiura, Keston",Milwaukee
+"Mastrobuoni, Miles",Chicago
+"Pereda, Jhonny",Free
+"Bichette, Bo",Toronto
+"Nimmo, Brandon",New York
+"Schoop, Jonathan",Free
+"Thomas, Lane",Washington
+"Ortiz, Joey",Milwaukee
+"Young, Jacob",Washington
+"Clase, Jonatan",Seattle
+"Kiermaier, Kevin",Toronto
+"Leblanc, Charles",Free
+"Rodgers, Brendan",Colorado
+"Manzardo, Kyle",Tampa Bay
+"Malloy, Justyn-Henry",Detroit
+"Alonso, Pete",New York
+"Kieboom, Carter",Washington
+"Hosmer, Eric",Free
+"Sosa, Edmundo",Philadelphia
+"Peguero, Liover",Pittsburgh
+"De Los Santos, Luis",Toronto
+"Dixon, Brandon",Free
+"Burleson, Alec",St.Louis
+"Madrigal, Nick",Chicago
+"Thompson, Bubba",Kansas City
+"Kelenic, Jarred",Atlanta
+"Barrero, Jose",Cincinnati
+"Luplow, Jordan",Minnesota
+"Singleton, Jon",Milwaukee
+"Slater, Austin",San Francisco
+"Outman, James",Los Angeles
+"Lux, Gavin",Los Angeles
+"Ramírez, José",Cleveland
+"Steer, Spencer",Cincinnati
+"Noda, Ryan",Oakland
+"Grandal, Yasmani",Pittsburgh
+"Rodríguez, Johnathan",Cleveland
+"France, Ty",Seattle
+"Baty, Brett",New York
+"Rivas, Leo",Los Angeles
+"Marte, Noelvi",Cincinnati
+"Goodman, Hunter",Colorado
+"Wilson Jr., Jacob",Oakland
+"Edman, Tommy",St.Louis
+"Eaton, Nate",Kansas City
+"Hilliard, Sam",Colorado
+"Vierling, Matt",Detroit
+"Bruján, Vidal",Miami
+"Vogelbach, Daniel",Free
+"Dezenzo, Zach",Houston
+"Toro, Abraham",Oakland
+"Wisdom, Patrick",Chicago
+"Wilson, Will",San Francisco
+"Bohm, Alec",Philadelphia
+"Chisholm Jr., Jazz",Miami
+"Alvarez, Eddy",Milwaukee
+"Wiemer Jr., Joey",Milwaukee
+"Johnson, Bryce",San Francisco
+"Jankowski, Travis",Texas
+"Montes, Coco",Colorado
+"Hoskins, Rhys",Milwaukee
+"Williamson, Ben",Seattle
+"O'Neill, Tyler",Boston
+"Urshela, Gio",Detroit
+"Harris, Dustin",Texas
+"Ruiz, Keibert",Washington
+"Smith, Josh",Texas
+"Vivas, Jorbit",Los Angeles
+"Wade Jr., LaMonte",San Francisco
+"Happ, Ian",Chicago
+"Fletcher, David",Los Angeles
+"Soto, Juan",New York
+"Rave, John",Kansas City
+"Wallach, Chad",Los Angeles
+"Shenton, Austin",Tampa Bay
+"Walsh, Jared",Los Angeles
+"Edwards, Xavier",Miami
+"Suárez, Eugenio",Arizona
+"Rice, Ben",New York
+"Durbin, Caleb",New York
+"Nola, Austin",San Diego
+"Grossman, Robbie",Texas
+"Soto, Livan",Baltimore
+"Díaz, Aledmys",Leones
+"Burger, Jake",Texas
+"Harris, Brett",Oakland
+"Chavis, Michael",Free
+"Mauricio, Ronny",New York
+"Mancini III, Trey",Arizona
+"Newman, Kevin",Los Angeles
+"Brooks, Trenton",Free
+"Rocchio, Brayan",Cleveland
+"Odor, Rougned",Free
+"Mervis, Matt",Chicago
+"Tena, José",Cleveland
+"Valdez, Enmanuel",Boston
+"Salazar, César",Houston
+"Ortega, Rafael",Free
+"Robert Jr., Luis",Chicago
+"Anderson, Tim",Miami
+"Mathias, Mark",Free
+"Yoshida, Masataka",Boston
+"O'Hoppe, Logan",Los Angeles
+"Adrianza, Ehire",Free
+"Semien, Marcus",Texas
+"Remillard, Zach",Chicago
+"Narváez, Omar",New York
+"Springer III, George",Toronto
+"Murphy, Tom",Seattle
+"Lopez, Otto",Toronto
+"Kemp, Tony",Oakland
+"McKinstry, Zach",Detroit
+"Basabe, Osleivis",Tampa Bay
+"Kim, Ha-Seong",San Diego
+"Ahmed, Nick",Arizona
+"Vavra, Terrin",Baltimore
+"Jones, Nolan",Colorado
+"Harrison, Josh",Free
+"Aguilar, Jesús",Free
+"Lugo, Matthew",Boston
+"Brown, Seth",Oakland
+"Bleday, JJ",Oakland
+"Lowe, Brandon",Tampa Bay
+"Donovan, Brendan",St.Louis
+"Hays, Austin",Baltimore
+"Rivas III, Alfonso",San Diego
+"Schneemann, Daniel",Cleveland
+"Dunn, Oliver",Milwaukee
+"Wells, Austin",New York
+"Gamel, Ben",Free
+"Ramos, Henry",Cincinnati
+"Westbrook, Jamie",Detroit
+"Chourio, Jackson",Milwaukee
+"Contreras, William",Milwaukee
+"Sullivan, Brett",San Diego
+"Martinez, J.D.",New York
+"Wendle, Joey",Miami
+"Alcantara, Kevin",Chicago
+"Mayer, Marcelo",Boston
+"Julien, Edouard",Minnesota
+"Foscue, Justin",Texas
+"Siani, Michael",Cincinnati
+"Meneses, Joey",Washington
+"Guerrero Jr., Vladimir",Toronto
+"Garlick, Kyle",Free
+"Zavala, Seby",Arizona
+"Sheets, Gavin",Chicago
+"Nuñez, Nasim",Miami
+"Walker, Christian",Arizona
+"Barrosa, Jorge",Arizona
+"India, Jonathan",Cincinnati
+"Jordan, Levi",Chicago
+"Pillar, Kevin",Chicago
+"Stubbs, Garrett",Philadelphia
+"Delay, Jason",Pittsburgh
+"Espinal, Santiago",Toronto
+"Marchán, Rafael",Philadelphia
+"Yelich, Christian",Milwaukee
+"Moustakas, Mike",Free
+"Young, Jared",Chicago
+"Baldwin, Drake",Atlanta
+"Cron, C.J.",Free
+"Taylor, Michael A.",Minnesota
+"Bouchard, Sean",Colorado
+"Dahl, David",Los Angeles
+"Pozo, Yohel",Free
+"Goodrum, Niko",Free
+"Campusano, Luis",San Diego
+"Segura, Jean",Free
+"Amador, Adael",Colorado
+"Taylor, Tyrone",Milwaukee
+"Koss, Christian",Boston
+"Simon, Ronny",Tampa Bay
+"Votto, Joey",Free
+"Shaw, Matt",Chicago
+"Feduccia, Hunter",Los Angeles
+"Sánchez, Gary",Milwaukee
+"Black, Tyler",Milwaukee
+"Querecuto, Juniel",St.Louis
+"Urías, Ramón",Baltimore
+"Senger, Hayden",New York
+"Kohlwey, Taylor",San Diego
+"Fitzgerald, Tyler",San Francisco
+"Simpson, Chandler",Tampa Bay
+"Schmitt, Casey",San Francisco
+"Noel, Jhonkensy",Cleveland
+"O'Keefe, Brian",Seattle
+"Roden, Alan",Toronto
+"Serven, Brian",Colorado
+"Melendez Jr., MJ",Kansas City
+"McNeil, Jeff",New York
+"Campero, Gustavo",Los Angeles
+"Kirk, Alejandro",Toronto
+"Blanco, Dairon",Kansas City
+"Crim, Blaine",Texas
+"Senzel, Nick",Cincinnati
+"Marlowe, Cade",Seattle
+"Romo, Drew",Colorado
+"Mullins II, Cedric",Baltimore
+"Wagaman, Eric",New York
+"Naylor, Josh",Cleveland
+"Gonzalez, Oscar",Cleveland
+"Millas, Drew",Washington
+"Gelof, Zack",Oakland
+"Kim, Hyeseong",San Diego
+"Bethancourt, Christian",Tampa Bay
+"Hummel, Cooper",Seattle
+"Guthrie, Dalton",Philadelphia
+"Zunino, Mike",Free
+"Porter, Logan",Kansas City
+"Lipscomb III, Trey",Washington
+"Casas, Triston",Boston
+"Bradley Jr., Jackie",Free
+"Misner, Kameron",Miami
+"Baker, Darren",Washington
+"Gasper, Mickey",New York
+"Escobar, Eduardo",New York
+"Allen, Greg",New York
+"Kurtz, Nick",Wake
+"Meadows, Austin",Detroit
+"Arroyo, Christian",Boston
+"Tawa, Tim",Los Angeles
+"Alu, Jake",Washington
+"Beaty, Matt",Free
+"Batten, Matthew",San Diego
+"Bote, David",Chicago
+"Dickerson, Corey",Free
+"Gomes, Yan",Chicago
+"Hall, Darick",Philadelphia
+"Colás, Oscar",Chicago
+"Reyes, Franmil",Free
+"Burdick, Peyton",Miami
+"Kavadas, Niko",Boston
+"Lewis, Kyle",Arizona
+"Conine, Griffin",Miami
+"Greene, Riley",Detroit
+"Duvall, Adam",Atlanta
+"Velazquez, Andrew",Los Angeles
+"Campbell, Kristian",Boston
+"Daza, Yonathan",Colorado
+"Lee, Jung Hoo",San Francisco
+"Fermin, Freddy",Kansas City
+"Thomas, Cody",Oakland
+"Fermín, José",Cleveland
+"Bart, Joey",San Francisco
+"McCann, Kyle",Oakland
+"Abreu, José",Houston
+"Robinson, Chuckie",Cincinnati
+"Sánchez, Ali",St.Louis
+"Rooker Jr., Brent",Oakland
+"Reetz, Jakson",Kansas City
+"Alexander, Blaze",Arizona
+"Pérez, Roberto",Free
+"Calhoun, Kole",Free
+"Davis, Jonathan",Miami
+"Barger, Addison",Toronto
+"Rutherford, Blake",Washington
+"Diaz, Jordan",Oakland
+"Cook, Billy",Baltimore
+"Pache, Cristian",Philadelphia
+"Encarnacion, Jerar",Miami
+"Araúz, Jonathan",New York
+"Veen, Zac",Colorado
+"Vázquez, Luis",Chicago
+"Haseley, Adam",Chicago
+"Ruf, Darin",Free
+"Clarke, Denzel",Oakland
+"Owings, Chris",Free
+"Díaz, Isan",Miami
+"Anderson, Brian",Milwaukee
+"Thomas, Rhylan",New York
+"Fry, David",Cleveland
+"Gordon, Nick",Miami
+"Handley, Maverick",Baltimore
+"Workman, Gage",Detroit
+"Keaschall, Luke",Minnesota
+"Hernaiz, Darell",Oakland
+"Cooper, Garrett",Chicago
+"Gallagher, Cam",Baltimore
+"Jung, Jace",Detroit
+"Driscoll, Logan",San Diego
+"Longoria, Evan",Free
+"Myers, Wil",Free
+"Mercado, Óscar",St.Louis
+"Lile, Daylen",Washington
+"Alberto, Hanser",Free
+"Rushing, Dalton",Los Angeles
+"Mangum, Jake",Miami
+"López, Jack",Los Angeles
+"Mejía, Francisco",Tampa Bay
+"Marcano, Tucupita",Pittsburgh
+"Pollock, AJ",Free
+"Marisnick, Jake",Los Angeles
+"Stevenson, Cal",San Francisco
+"Ballesteros, Moisés",Chicago
+"Phillips, Brett",Los Angeles
+"Loperfido, Joey",Houston
+"Berroa, Steward",Seattle
+"Teodosio, Bryce",Los Angeles
+"Bemboom, Anthony",Baltimore
+"Ellis, Drew",Philadelphia
